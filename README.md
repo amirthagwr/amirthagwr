@@ -1,5 +1,11 @@
-### Hi there 👋
+### Amirtha Ambalavanan 👋
+> PhD in Human Genetics
 
+
+- 👩‍🔬 Bioinformatics scientist specialized in complex trait genetics.
+- 🔭 Passionate about human genetics and genomics
+- 💻 Experienced working with whole exome sequencing, whole genome sequencing, GWAS and multi omics data, data visualization and data analysis in R
+- ⚡ Google scholar link: https://scholar.google.com/citations?hl=en&user=YG9GARgAAAAJ
 <!--
 **amirthagwr/amirthagwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
