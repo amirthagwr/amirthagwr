@@ -1,4 +1,4 @@
-### Amirtha Ambalavanan 👋
+### Amirtha Ambalavanan 👋 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https:https://ca.linkedin.com/in/amirtha03)
 > PhD in Human Genetics
 
 
