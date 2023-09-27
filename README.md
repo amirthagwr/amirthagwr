@@ -4,7 +4,7 @@
 
 
 - 👩‍🔬 Bioinformatics scientist specialized in complex trait genetics.
-- 🔭 Passionate about human genetics and genomics
+- 🔭 Passionate in human genetics and genomics
 - 💻 Experienced working with NGS, GWAS and multi omics data, data visualization and data analysis in R
 - ⚡ Google scholar link: https://scholar.google.com/citations?hl=en&user=YG9GARgAAAAJ
 
